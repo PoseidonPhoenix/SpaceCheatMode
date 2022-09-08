@@ -2,7 +2,7 @@
 An old cheat for Among Us I made years ago
 
 <p align="center">
-  <img src="/images/Preview.png" />
+  <img src="/images/Preview.PNG" />
 </p>
 
 ## WARNINGS:

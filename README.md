@@ -1,6 +1,9 @@
 # SpaceCheatMode
 An old cheat for Among Us I made years ago
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PoseidonPhoenix/SpaceCheatMode/images/Preview.png" />
+</p>
 
 ## WARNINGS:
 - The pointers are outdated and need to be updated to the latest among us version in order for the cheat to work.

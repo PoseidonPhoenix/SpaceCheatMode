@@ -1,7 +1,7 @@
 # SpaceCheatMode
 An old cheat for Among Us I made years ago
 
-<p align="center">
+<p align="left">
   <img src="/images/Preview.PNG" />
 </p>
 

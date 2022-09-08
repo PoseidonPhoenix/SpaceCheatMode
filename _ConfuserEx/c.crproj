@@ -1,0 +1,26 @@
+<project outputDir="C:\Users\user\Documents\Visual Studio 2019\Projects\SpaceCheatMode\obj\Release" baseDir="C:\Users\user\Documents\Visual Studio 2019\Projects\SpaceCheatMode\obj\Release" xmlns="http://confuser.codeplex.com">
+<rule pattern="true" />
+<module path="SpaceCheatMode.exe">
+<rule pattern="true">
+<protection id="anti ildasm" />
+<protection id="constants" />
+<protection id="ctrl flow" />
+<protection id="ref proxy" />
+<protection id="resources" />
+<protection id = "rename" >
+<argument name = "mode" value = "decodable" />
+<argument name = "renPublic" value = "false" />
+<argument name = "renEnum" value = "false" />
+<argument name = "renameArgs" value = "false" />
+</protection >
+</rule>
+</module>
+<probePath>..\..\packages\Costura.Fody.4.1.0\lib\net40</probePath>
+<probePath>..\..\packages\MaterialDesignColors.1.2.7\lib\net45</probePath>
+<probePath>..\..\packages\MaterialDesignThemes.3.2.0\lib\net45</probePath>
+<probePath>..\..\packages\Memory.dll.x86.1.2.22\lib\netstandard2.0</probePath>
+<probePath>..\..\packages\Newtonsoft.Json.13.0.1\lib\net45</probePath>
+<probePath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7</probePath>
+<probePath>..\..\packages\System.Security.Principal.Windows.4.7.0\lib\net461</probePath>
+<probePath>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib</probePath>
+</project>

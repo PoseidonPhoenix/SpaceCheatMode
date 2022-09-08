@@ -2,7 +2,7 @@
 An old cheat for Among Us I made years ago
 
 
-##WARNINGS:
+## WARNINGS:
 - The pointers are outdated and need to be updated to the latest among us version in order for the cheat to work.
 - As you can see in the code, this only works along with MagicMushroom.dll which you can find on this repository: 
 - The packages included in the solution are most likely outdated as well

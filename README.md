@@ -2,7 +2,7 @@
 An old cheat for Among Us I made years ago
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PoseidonPhoenix/SpaceCheatMode/images/Preview.png" />
+  <img src="/images/Preview.png" />
 </p>
 
 ## WARNINGS:

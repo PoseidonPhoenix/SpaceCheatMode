@@ -504,7 +504,7 @@ namespace SpaceCheatMode
 			ShowOpenFileDialog();
 			try
 			{
-				bInject((uint)Process.GetProcessesByName("PSUAConsole").FirstOrDefault().Id, selecteddll);
+				bInject((uint)Process.GetProcessesByName("Among Us").FirstOrDefault().Id, selecteddll);
 			}
 			catch (Exception)
 			{
